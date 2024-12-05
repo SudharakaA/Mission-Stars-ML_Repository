@@ -26,3 +26,5 @@
 ![Screenshot 2024-12-03 at 20 18 15](https://github.com/user-attachments/assets/96819c79-bc41-47b2-9fa4-e391c2760580)
 
 
+![shooting-star-the-smurfs](https://github.com/user-attachments/assets/42d3992a-4478-4838-a196-8974236a073a)
+
