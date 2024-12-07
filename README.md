@@ -160,7 +160,7 @@ Developed by a collaborative team passionate about astrophysics and machine lear
 
  📊 How It Works
         1.	Data Preprocessing: Clean and normalize starfield images, enhancing visibility of faint stars.
-	2.	Model Training: Train a CNN on labeled star patterns to learn spatial relationships and features.
+	2.	Model Training: Train a FNN on labeled star patterns to learn spatial relationships and features.
 	3.	Pattern Matching: Compare detected patterns to predefined constellations for classification.
 
 
