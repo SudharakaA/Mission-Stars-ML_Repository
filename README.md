@@ -91,6 +91,10 @@ Category: Main Sequence
 
 ## 🤝 Contributing
 
+>Deshan Lanka
+>Ravindu Yasas
+>Vihanga Madushamini
+
 We welcome contributions! 🛠️
 
 - Fork the repository 🍴
