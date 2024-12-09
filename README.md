@@ -17,7 +17,7 @@ Welcome to the **Star Classification System**, an innovative project that levera
 
 - **Programming Language**: Python 🐍
 - **Technologies**:
- *-Data Science Libraries: Pandas, NumPy.*
+  -*Data Science Libraries: Pandas, NumPy*.
  *-Machine Learning: Scikit-learn for Random Forest.*
  -Deep Learning: TensorFlow/Keras for Neural Networks.
  -Visualization: Matplotlib, Seaborn.
