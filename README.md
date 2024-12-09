@@ -111,7 +111,7 @@ This project is licensed under the MIT License. 📄
 
 ## 📧 Contact
 
-For any inquiries or feedback, reach out to us at [your-email@example.com](mailto:sudharakaae7@gmail.com). 💬
+For any inquiries or feedback, reach out to us at [sudharakaashenaudi@icloud.com](mailto:sudharakaae7@gmail.com). 💬
 
 ---
 
