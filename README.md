@@ -16,10 +16,12 @@ Welcome to the **Star Classification System**, an innovative project that levera
 ## 🛠️ Tech Stack
 
 - **Programming Language**: Python 🐍
-- **Libraries**:
-  - OpenCV 📸: For image processing and analysis.
-  - scikit-learn 🤖: For machine learning classification.
-  - NumPy 📐: For numerical computations.
+- **Technologies**:
+ Data Science Libraries: Pandas, NumPy.
+ Machine Learning: Scikit-learn for Random Forest.
+ Deep Learning: TensorFlow/Keras for Neural Networks.
+ Visualization: Matplotlib, Seaborn.
+ GUI Development: Tkinter.
 
 ---
 
@@ -76,16 +78,6 @@ Welcome to the **Star Classification System**, an innovative project that levera
    python scripts/classify_star.py
    ```
 
----
-
-## 📈 Example Output
-
-```
-Star Name: Sirius
-Brightness: 5.23
-Size: Medium
-Category: Main Sequence
-```
 
 ---
 
