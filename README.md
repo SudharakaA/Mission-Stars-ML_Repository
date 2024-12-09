@@ -116,3 +116,6 @@ For any inquiries or feedback, reach out to us at [sudharakaashenaudi@icloud.com
 ---
 
 🌟 **Thank you for exploring the Star Classification System!**
+![WhatsApp Image 2024-12-04 at 08 05 28](https://github.com/user-attachments/assets/d4031535-9a93-4b81-9131-f7a103b7cf49)
+
+https://giphy.com/gifs/sky-space-qR6Sxkb8fp7ZS
