@@ -1,6 +1,6 @@
 # 🌌 Star Classification System
 
-Welcome to the **Star Classification System**, an innovative project that leverages Python, OpenCV, and scikit-learn to analyze and classify stars based on their features. This project demonstrates the powerful combination of image processing and machine learning techniques. 🌟
+Welcome to the **Star Classification System**, an innovative project that leverages Python, and scikit-learn to analyze and classify stars based on their features. This project demonstrates the powerful  machine learning techniques. 🌟
 
 ---
 
@@ -23,23 +23,8 @@ Welcome to the **Star Classification System**, an innovative project that levera
   - **Visualization: Matplotlib, Seaborn.**
   - **GUI Development: Tkinter.**
 
----
 
-## 📂 Project Structure
 
-```
-.
-├── images/                # Directory for star images
-├── models/                # Saved machine learning models
-├── scripts/               # Python scripts for various functionalities
-│   ├── preprocess.py      # Image preprocessing
-│   ├── train_model.py     # ML model training
-│   ├── classify_star.py   # Star classification script
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
-```
-
----
 
 ## 🚀 Getting Started
 
@@ -60,32 +45,6 @@ Welcome to the **Star Classification System**, an innovative project that levera
    pip install -r requirements.txt
    ```
 
----
-
-### 🧑‍💻 Usage
-
-1. Place your star images in the `images/` directory. 🌌
-2. Run the preprocessing script to extract features:
-   ```bash
-   python scripts/preprocess.py
-   ```
-3. Train the machine learning model:
-   ```bash
-   python scripts/train_model.py
-   ```
-4. Classify stars:
-   ```bash
-   python scripts/classify_star.py
-   ```
-
-
----
-
-## 🤝 Contributing
-
->Deshan Lanka
->Ravindu Yasas
->Vihanga Madushamini
 
 We welcome contributions! 🛠️
 
